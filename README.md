@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ybs010
 - 👀 I’m AI / ML enthusiast
 - 💞️ I’m looking to collaborate on the same
-- 📫 Reach me on `yeleswarapu.shankar@gmail.com`
+- 📫 Reach me on `yeleswarapushankar+github@gmail.com`
 
 <!---
 ybshankar010/ybshankar010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
